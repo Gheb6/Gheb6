@@ -1,1 +1,4 @@
-Hi, I am Gabriele Righi!
+- 👋 Hi, I’m Gabriele Righi
+- 🎓 I'm studying at @ Università degli Studi di Parma (Unipr.it)
+- 🌱 I’m currently studying Reinforcement Learning
+- 📫 You can reach me here: ghebciuf@gmail.com
