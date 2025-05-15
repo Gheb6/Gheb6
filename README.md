@@ -16,6 +16,6 @@ I am a Computer Science student passionate about **Machine Learning**, **Artific
 
 ## How to Reach Me
 - 🏗️ GitHub: [github.com/Gheb](https://github.com/Gheb6)
-- 💼 LinkedIn: [linkedin.com/in/Gabriele-Righi](https://www.linkedin.com/in/gabriele-righi-144486266))
+- 💼 LinkedIn: [linkedin.com/in/Gabriele-Righi](https://www.linkedin.com/in/gabriele-righi-144486266)
 
 Always open to collaborations and discussions on AI and ML! 🚀
